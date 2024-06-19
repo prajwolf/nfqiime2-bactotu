@@ -7,6 +7,17 @@ Due to similarity in the workflow, this pipeline can also perform the analysis o
 For Bacterial 16S, download the Silva classifier qza file.
 For Fungus ITS, download the Unite classifier qza file.
 
+Implementation:
+
+Tools required:
+Nextflow
+Qiime2 conda environment
+
+Pipeline implementation:
+
+1. Make sure nextflow is installed on your system.
+2. Activate qiime2 conda environment
+3. Run the nextflow script
 
 
 
